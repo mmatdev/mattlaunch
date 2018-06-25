@@ -3,7 +3,7 @@
     "name": "mattlaunch",
     "short_name": "mlaunch",
     "description": "Easy way to get to any of mmatt's crap",
-    "version": "1.9",
+    "version": "1.10",
     "icons": {"16": "images/icon.png", "128": "images/icon_128.png"},
     "browser_action": {
         "default_icon": "icon.png",
