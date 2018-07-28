@@ -2,7 +2,13 @@
 the mattlaunch chrome extention
 
 ## Why Use It?
-idk bro just use it download on chrome web store, avalible with opera and firefox soon.
+because you won't have to remember any of my usernames for any of my sites. coming soon with my livestream integrated into the extension. 
 
 ## Anything you want me to add?
-Tell me, do a pull request, or something like that.
+Do a pull request!
+
+## Anything is broken?
+Open an Issue! 
+
+## Conclusion
+In conclusion, you can use this project to create your own mattlaunch esc extesnsion or download it earlier than when the stores release it.
