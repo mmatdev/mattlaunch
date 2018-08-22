@@ -1,4 +1,4 @@
-# mattlaunch
+# mattlaunch https://travis-ci.org/mmatdev/mattlaunch.svg?branch=master
 the mattlaunch chrome extention
 
 ## Why Use It?
