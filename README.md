@@ -1,6 +1,6 @@
-# mattlaunch https://travis-ci.org/mmatdev/mattlaunch.svg?branch=master
+# mattlaunch 
 the mattlaunch chrome extention
-
+[logo]https://travis-ci.org/mmatdev/mattlaunch.svg?branch=master
 ## Why Use It?
 because you won't have to remember any of my usernames for any of my sites. coming soon with my livestream integrated into the extension. 
 
