@@ -1,6 +1,12 @@
 # mattlaunch
 Welcome to the mattlaunch [ml] OPEN SOURCE extension page! This extension makes it so you don't have to remember any of my usernames for any website because I do change them a lot, lol.
 
+[![GitHub issues](https://img.shields.io/github/issues/mmatdev/mattlaunch.svg)](https://github.com/mmatdev/mattlaunch/issues)
+[![GitHub forks](https://img.shields.io/github/forks/mmatdev/mattlaunch.svg)](https://github.com/mmatdev/mattlaunch/network)
+[![GitHub stars](https://img.shields.io/github/stars/mmatdev/mattlaunch.svg)](https://github.com/mmatdev/mattlaunch/stargazers)
+[![GitHub license](https://img.shields.io/github/license/mmatdev/mattlaunch.svg)](https://github.com/mmatdev/mattlaunch/blob/master/LICENSE)
+[![Twitter](https://img.shields.io/twitter/url/https/github.com/mmatdev/mattlaunch.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fmmatdev%2Fmattlaunch)
+
 ## Why Use It?
 Why not!
 
