@@ -6,10 +6,6 @@ Welcome to the mattlaunch [ml] OPEN SOURCE extension page! This extension makes 
 [![GitHub stars](https://img.shields.io/github/stars/mmatdev/mattlaunch.svg?style=for-the-badge)](https://github.com/mmatdev/mattlaunch/stargazers)
 [![GitHub license](https://img.shields.io/github/license/mmatdev/mattlaunch.svg?style=for-the-badge)](https://github.com/mmatdev/mattlaunch/blob/master/LICENSE)
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/pbhmafnjldbnbaoaeioijmnlcifigfod?style=for-the-badge)](https://chrome.google.com/webstore/detail/mattlaunch/pbhmafnjldbnbaoaeioijmnlcifigfod)
-[![Twitter](https://img.shields.io/twitter/url/https/github.com/mmatdev/mattlaunch.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fmmatdev%2Fmattlaunch)
-
-## Why Use It?
-Why not!
 
 ## Want to help?
 Do a pull request!
