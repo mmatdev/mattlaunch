@@ -2,8 +2,8 @@
     "manifest_version": 2,
     "name": "mattlaunch",
     "short_name": "ml",
-    "description": "Easy way to get to any of mmatt's crap.",
-    "version": "1.13",
+    "description": "Easy way to get to any of mmatt's socials.",
+    "version": "1.14",
     "icons": {"16": "images/icon.png", "64": "images/icon_64.png", "128": "images/icon_128.png"},
     "browser_action": {
         "default_icon": "icon_64.png",
